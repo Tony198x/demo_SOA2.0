@@ -1,0 +1,8 @@
+E:\MyGitProject\Helloworld_SOA2.0_demo\ConsoleHelloWorldService\ConsoleHelloWorldClient\bin\Debug\ConsoleHelloWorldClient.exe.config
+E:\MyGitProject\Helloworld_SOA2.0_demo\ConsoleHelloWorldService\ConsoleHelloWorldClient\bin\Debug\ConsoleHelloWorldClient.exe
+E:\MyGitProject\Helloworld_SOA2.0_demo\ConsoleHelloWorldService\ConsoleHelloWorldClient\bin\Debug\ConsoleHelloWorldClient.pdb
+E:\MyGitProject\Helloworld_SOA2.0_demo\ConsoleHelloWorldService\ConsoleHelloWorldClient\obj\Debug\ConsoleHelloWorldClient.exe
+E:\MyGitProject\Helloworld_SOA2.0_demo\ConsoleHelloWorldService\ConsoleHelloWorldClient\obj\Debug\ConsoleHelloWorldClient.pdb
+E:\MyGitProject\Helloworld_SOA2.0_demo\ConsoleHelloWorldService\ConsoleHelloWorldClient\bin\Debug\CServiceStack.Mega.dll
+E:\MyGitProject\Helloworld_SOA2.0_demo\ConsoleHelloWorldService\ConsoleHelloWorldClient\bin\Debug\Framework.Logging.V2.API.dll
+E:\MyGitProject\Helloworld_SOA2.0_demo\ConsoleHelloWorldService\ConsoleHelloWorldClient\obj\Debug\ConsoleHelloWorldClient.csprojResolveAssemblyReference.cache

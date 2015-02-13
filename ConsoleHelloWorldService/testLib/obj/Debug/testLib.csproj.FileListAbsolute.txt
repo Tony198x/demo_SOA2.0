@@ -1,0 +1,4 @@
+E:\MyGitProject\Helloworld_SOA2.0_demo\ConsoleHelloWorldService\testLib\bin\Debug\testLib.dll
+E:\MyGitProject\Helloworld_SOA2.0_demo\ConsoleHelloWorldService\testLib\bin\Debug\testLib.pdb
+E:\MyGitProject\Helloworld_SOA2.0_demo\ConsoleHelloWorldService\testLib\obj\Debug\testLib.dll
+E:\MyGitProject\Helloworld_SOA2.0_demo\ConsoleHelloWorldService\testLib\obj\Debug\testLib.pdb
